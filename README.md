@@ -4,3 +4,5 @@ Project 1 (Simple 2D scene) is in the Project 1 folder
 Project 2 (Pong Variations) is in the Project 2 folder
 
 Project 3 (Lunar Lander) is in the project 3 folder
+
+Project 4 (Rise of the AI) is in the project 4 folder
